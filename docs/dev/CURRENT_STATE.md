@@ -4,9 +4,8 @@ Date: 2026-05-14
 
 ## Stage
 
-Local static GitHub Pages site has been created, validated, initialized as a
-Git repository, and committed for a freelance software development service
-profile.
+Static GitHub Pages site has been created, validated, committed, pushed, and
+published for a freelance software development service profile.
 
 ## Files
 
@@ -30,16 +29,20 @@ profile.
 - Fixed browser `favicon.ico` 404 with an inline favicon.
 - Desktop and mobile screenshots were generated under `output/playwright/`;
   mobile title wrapping was adjusted after visual review.
+- GitHub Pages status is `built`.
+- Public URL `https://siilent-sea.github.io/` returns HTTP 200.
+- Live public HTML contains `ZJP`, `momomonkfish@gmail.com`, and
+  `github.com/Siilent-Sea`; `Zhou Jianping` is not present.
 
 Local generated screenshots and `.playwright-cli` state are intentionally
 excluded from Git.
 
 ## Next Action
 
-Ask before creating or pushing to the public GitHub Pages repository because
-that is an externally visible publish action.
+Use `https://siilent-sea.github.io/` as the business website URL for Payoneer.
+Future content edits can be made in this repo and pushed to `origin/main`.
 
 Expected public repository and URL:
 
 - Repository: `Siilent-Sea/Siilent-Sea.github.io`
-- URL: `https://Siilent-Sea.github.io/`
+- URL: `https://siilent-sea.github.io/`
