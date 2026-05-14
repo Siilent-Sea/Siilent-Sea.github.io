@@ -60,7 +60,7 @@ https://Siilent-Sea.github.io/
 - Public service name: `ZJP Software Development & IT Services`
 - Contact email: `momomonkfish@gmail.com`
 - GitHub profile: `https://github.com/Siilent-Sea`
-- Profile name: `Zhou Jianping`
+- Public display name: `ZJP`
 
 Do not add private employer, client, phone, home address, credentials, or
 internal project details to this public website.

@@ -18,6 +18,7 @@ profile.
 
 ## Public Contact
 
+- Public display name: `ZJP`
 - Email: `momomonkfish@gmail.com`
 - GitHub: `https://github.com/Siilent-Sea`
 
